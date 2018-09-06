@@ -1,0 +1,18 @@
+{
+    "name": "loduis/php-xml-transport",
+    "authors": [
+        {
+            "name": "Loduis Madariaga",
+            "email": "loduis@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "XML\\Transport": "src/"
+        }
+    },
+    "require": {
+        "loduis/php-xml-support": "dev-master"
+    },
+    "minimum-stability": "dev"
+}
